@@ -1,2 +1,9 @@
-# hello_world
-Just repository for test
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+system("pause");
+return 0;
+}
